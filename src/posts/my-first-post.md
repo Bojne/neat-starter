@@ -10,23 +10,7 @@ tags:
   - center
   - right
 ---
-# This is a Heading h1
-
-## This is a Heading h2
-
-###### This is a Heading h6
-
-## Emphasis
-
-*This text will be italic*\
-*This will also be italic*
-
-**This text will be bold**\
-**This will also be bold**
-
-*You **can** combine them*
-
-## Lists
+![](https://images.unsplash.com/photo-1524503033411-c9566986fc8f?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb "kids")
 
 ### Unordered
 
